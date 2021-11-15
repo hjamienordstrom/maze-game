@@ -2,8 +2,8 @@
 const { Engine, Render, Runner, World, Bodies ,Body, Events} = Matter;
 
 //for grid configuration
-const cellsHorizontal = 4;
-const cellsVertical = 3;
+const cellsHorizontal = 10;
+const cellsVertical = 7;
 
 //sets 'borders'
 const width = window.innerWidth;
